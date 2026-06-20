@@ -1,0 +1,12 @@
+[submodule "Codeforces"]
+	path = Codeforces
+	url = https://github.com/kushinada2077/Codeforces.git
+[submodule "leetcode"]
+	path = leetcode
+	url = https://github.com/kushinada2077/leetcode.git
+[submodule "Baekjoon"]
+	path = Baekjoon
+	url = https://github.com/kushinada2077/Baekjoon-Online-Judge-and-programmers.git
+[submodule "AtCoder"]
+	path = AtCoder
+	url = https://github.com/kushinada2077/AtCoder.git
